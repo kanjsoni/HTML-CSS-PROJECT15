@@ -13,6 +13,7 @@
 }
 .logo{
     height: 2rem;
+    background-color: transparent;
 }
 .list{
     display: flex;
@@ -100,7 +101,7 @@
 
 }
 
-.card h6{
+#btn1{
     color: #f31414;
     font-size: 12px;
     margin-top: 10px;
@@ -211,14 +212,63 @@ span{
     margin-top: 10px;
 }
 
+.feature-photos{
+    margin-top: 2rem ;
+    display: flex;
+    justify-content: space-around;
+}
+.feature-photo img{
+    height: 300px;
+    background-color: #1c1c1c;
+    padding: 25px 50px;
+}
+
+.feature-photo h3{
+    color: #f6f6f6;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-top: 1rem;
+}
 
 
+  .features{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
 
-        
+.features h2{
+    color: #ffffff;
+    font-size: 2rem;
+    
+}
 
-                
+.features p{
+    color: #fffffa;
+    font-size: 10px;
+    margin-top: 10px;
+} 
 
-                
+.footer-list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    color: #fffffa;
+    font-size: 10px;
+    margin-top: 2rem;
+    gap: 4rem;
+    font-weight: 600;
+}
+.footer{
+margin: 3rem;
+display: flex;
+justify-content: flex-start;
+gap: 20rem;
+}
 
-                
-
+.social{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+   }

@@ -71,8 +71,8 @@
 .cards{
     display: flex;
     justify-content: space-around;
-    gap: 10px;
-    margin-top: 2rem;
+    gap: 1rem;
+    margin-top: 3rem;
 }
 .card{
     background-color: #1c1c1c;
@@ -144,3 +144,81 @@ span{
     font-size: 1rem;
     background-color: transparent;
 }
+
+.experience{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}
+#left h1{
+    color: #f31414;
+    font-size: 4rem;
+    margin-top: 3rem;
+    text-align: center;
+    font-weight: 900;
+}
+
+#left p{
+    font-size: 1.2rem;
+    color: #fffffa;
+    text-align: center;
+    font-weight: 700;
+}
+
+.scards{
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    margin-top: 5px;
+}
+.scard{
+    background-color: #1c1c1c;
+    padding: 20px 55px;
+
+}
+
+.scard h3{
+    color: #f31414;
+    font-size: 2rem;
+    background-color: transparent;
+    text-align: center;
+}
+
+.scard p{
+    color: #f6f6f6;
+    font-size: 10px;
+    text-align: center;
+    background-color: transparent;
+}
+
+.features{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+
+.features h2{
+    color: #ffffff;
+    font-size: 2rem;
+    
+}
+
+.features p{
+    color: #fffffa;
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+        
+
+                
+
+                
+
+                
+

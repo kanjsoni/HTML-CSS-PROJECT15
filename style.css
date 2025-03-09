@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: #000000;
+    font-family: "Ubantu", sans-serif;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+.logo{
+    height: 2rem;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    gap: 4rem;
+    color: #fffffa;
+    list-style: none;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+.hero-section1{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.left img{
+    height: 450px;
+}
+.right{
+    width: 60vb;
+    margin-top: 5rem;
+}
+.right h3{
+   
+    color: #f31414;
+    font-size: 1.5rem;
+    font-weight: 700;
+
+}
+.right h2{
+    color: #ffffff;
+    font-size: 2.5rem;
+    margin-top: 5px;
+    font-weight: 900;
+
+}
+
+.right p{
+    color: #fffffa;
+    font-size: 12px;
+    margin-top: 5px;
+
+}
+
+.btn{
+    background-color: #f31414;
+    color: #fffffa;
+    padding: 10px 15px;
+    border: none;
+    margin-top: 2rem;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-top: 2rem;
+}
+.card{
+    background-color: #1c1c1c;
+    padding: 1rem;
+    width: 35vb;
+}
+
+#svg{
+    height: 2rem;
+    background-color: transparent;
+}
+
+.card h3{
+    font-size: 1.2rem;
+    margin-top: 10px;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.card p{
+    color: #fffffa;
+    font-size: 12px;
+    margin-top: 1rem;
+    background-color: transparent;
+
+}
+
+.card h6{
+    color: #f31414;
+    font-size: 12px;
+    margin-top: 10px;
+    background-color: transparent;
+}
+
+span{
+    font-size: 1rem;
+    background-color: transparent;
+}
+
+.card2{
+    background-color: #f31414;
+    padding: 1rem;
+    width: 35vb;
+}
+
+.card2 h3{
+    font-size: 1.2rem;
+    margin-top: 10px;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.card2 p{
+    color: #fffffa;
+    font-size: 12px;
+    margin-top: 1rem;
+    background-color: transparent;
+
+}
+
+.card2 h6{
+    color: #ffffff;
+    font-size: 12px;
+    margin-top: 10px;
+    background-color: transparent;
+}
+
+ .card2 span{
+    font-size: 1rem;
+    background-color: transparent;
+}
